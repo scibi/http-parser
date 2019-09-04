@@ -15,6 +15,6 @@ install:
 
 script: py.test testing/
 
-branches:
-  only:
-    - master
+#branches:
+#  only:
+#    - master
