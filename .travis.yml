@@ -18,4 +18,3 @@ script: py.test testing/
 branches:
   only:
     - master
-
